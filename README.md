@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there Developers 👋
 
-<!--
-**pmrjayawardena/pmrjayawardena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prabodha Jayawardena, Currently Working as a Software Engineer in a Software Development Company based in Colombo, Sri Lanka
 
-Here are some ideas to get you started:
+Currently I'm working on Front-End as well as Backend of the ongoing Travel Booking System (Nuxtjs (Vue) ElasticSearch, MongoDb, NodeJs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Facts about me 😎
+
+- 🐶 Dog Lover
+- 💻 JS Freak
+- ‍👤 Night Owl
+- 📸 My Instagram Follow me [[Instagram](https://www.instagram.com/prabodha_j)]
+
+### 📮 How to reach me
+
+- [pmrjayawardena@gmail.com](mailto:pmrjayawardena@gmail.com)
+- [Facebook](https://www.facebook.com/dev.prabodha)
