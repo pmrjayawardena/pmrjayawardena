@@ -1,12 +1,12 @@
-# Hi there Developers 👋 🇱🇰
+# Hi There Developers 👋 🇱🇰
 
-I'm Prabodha Jayawardena, Currently Working as a Software Engineer in a Software Development Company based in Colombo, Sri Lanka
+I'm Prabodha Jayawardena, Currently Working as a Software Engineer in a Software Development Company based in Colombo, Sri Lanka.
 
 Currently I'm working on Front-End as well as Backend of the ongoing Travel Booking System (Nuxtjs (Vue) ElasticSearch, MongoDb, NodeJs)
 
 ### IN THE WORLD FULL OF PYTHON BE MY JAVASCRIPT 😋
 
-### Facts about me 😎
+### About me 😎
 
 - 🐶 Dog Lover
 - 💻 JS Freak
@@ -17,5 +17,6 @@ Currently I'm working on Front-End as well as Backend of the ongoing Travel Book
 
 - [pmrjayawardena@gmail.com](mailto:pmrjayawardena@gmail.com)
 - [Facebook](https://www.facebook.com/dev.prabodha)
+- [Medium](https://medium.com/@pmrjayawardena)
 
 ![image description](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
