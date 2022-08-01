@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <a href="https://app.daily.dev/pmrjayawardena"><img src="https://api.daily.dev/devcards/270663126ece47a8a5709a1ae6d6684b.png?r=vqz" width="400" alt="Prabodha Jayawardena's Dev Card"/></a>
 
 
