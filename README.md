@@ -6,12 +6,11 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prabodha! 
-*# Hi There Developers 👋 🇱🇰*
+# Hi There Developers 👋 🇱🇰
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with strong expertise in Next.js, React.js, Node.js, Express, along with experience in building APIs and backend systems.</p>
+<p align="left">I'm a Full Stack Developer with strong expertise in Next.js, React.js, Node.js, Express, along with experience in building APIs and backend systems.</p>
 ### IN THE WORLD FULL OF PYTHON BE MY JAVASCRIPT 😋
 <br/>
 <br/>
