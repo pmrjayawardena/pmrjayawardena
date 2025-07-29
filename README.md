@@ -14,6 +14,8 @@
 <p align="left">I am a Full Stack Developer with strong expertise in Next.js, React.js, Node.js, Express, along with experience in building APIs and backend systems.</p>
 ### IN THE WORLD FULL OF PYTHON BE MY JAVASCRIPT 😋
 <br/>
+<br/>
+<br/>
 - 🐶 Dog Lover
 - 💻 JS Freak
 - ‍👤 Night Owl
@@ -31,3 +33,6 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
